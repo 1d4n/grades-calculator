@@ -1,0 +1,21 @@
+.form-select {
+  text-overflow: ellipsis;
+}
+
+@media only screen and (min-width: 266px) {
+    .FinalGrade-minWeight-tooltip {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 438px) {
+    .Assignment-grade-tooltip {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 452px) {
+    .Assignment-weight-tooltip {
+        display: none;
+    }
+}

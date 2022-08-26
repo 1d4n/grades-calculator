@@ -1,0 +1,18 @@
+@media only screen and (min-width: 350px) {
+    .Average-courseName-tooltip {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 351px) {
+    .Average-credits-tooltip {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 333px) {
+    .Average-finalGrade-tooltip {
+        display: none;
+    }
+}
+
